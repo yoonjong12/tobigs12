@@ -23,3 +23,8 @@
 
 
 10주차(9/18) : 텍스트(NLP) 심화(RNN, LSTM, E/D, Attention)
+
+--- 
+
+## 12기&13기 NLP 심화 강의안
+직접 제작한 자연어처리 심화 강의안으로, Doucument Embedding, RNN & LSTM 강의입니다.
